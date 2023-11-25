@@ -23,4 +23,4 @@ Dataset: https://www.kaggle.com/datasets/erikvdven/tiktok-trending-december-2020
 
 The project uses a dataset of 600 1080p videos encoded at various resolutions and bitrates.
 
-Note: For detailed usage, refer to comments within each script. This project is intended for academic research on video streaming quality.
+FYI: For more details of implementation, refer to comments within the code. This project is intended for the final project of COMP 691, focusing on video streaming quality.
