@@ -1,4 +1,4 @@
-# Video-Bitrate-Prediction-using-Deep-Reinforcement-Learning
+# Video Bitrate Prediction using Deep Reinforcement Learning
 **CONCORDIA UNIVERSITY**
 
 **FALL 2023**
