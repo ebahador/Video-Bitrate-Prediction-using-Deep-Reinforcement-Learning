@@ -1,18 +1,25 @@
 Video Streaming Quality Optimization Project
+
 Concordia University - Fall 2023
-AI for Multimedia Networks - COMP 691
+
+Artificial Intelligence for Networked Multimedia Systems - COMP 691
 
 Supervisor:
 
 Dr. Abdelhak Bentaleb
+
 Assistant Professor
+
 Email: abdelhak.bentaleb@concordia.ca
 
 Author:
 
 Amir Bahador Eizadkhah
+
 Master of Applied Computer Science
+
 Email: eizadkhah.bit@gmail.com
+
 ______________________________________________________________________________________________________________
 Project Overview:
 
